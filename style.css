@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:black ;
+    color: white;
+    text-align: center;
+}
+
+header h1 {
+    font-variant: small-caps;
+    padding-top: 50px;
+
+    font-family: "Passion One", cursive;
+    font-weight: 700;
+    font-size: 10vw;
+}
+
+header p {
+    padding-bottom: 50px;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+main p {
+    font-family: "Sriracha", cursive;
+    font-size: 3.5vw;
+    margin-left: 50px;
+    padding: 5px;
+    margin: 40px ;
+}
+
+.imagem p {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.514);
+    text-shadow: 1px 1px 0px black;
+    color: white;
+}
+
+#div1 {
+    padding-bottom: 60px;
+}
+
+#div2 {
+    background-image: url(imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#div3 {
+    padding-bottom: 60px;
+}
+
+#div4 {
+    background-image: url(imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#div5 {
+    padding-bottom: 80px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 0px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
