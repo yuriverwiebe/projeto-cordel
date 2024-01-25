@@ -57,6 +57,7 @@ main p {
     background-image: url(imagens/background001.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: right center;
 }
 
 #div3 {
